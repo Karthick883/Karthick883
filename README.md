@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Karthick%20K&fontSize=50&fontColor=ffffff&desc=AWS%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=65" width="100%" />
+<div align="center">
 
 # 👋 Hi, I'm Karthick
 
